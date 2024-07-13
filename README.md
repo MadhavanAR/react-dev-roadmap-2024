@@ -218,7 +218,7 @@ You should have worked with **one of the following:**
 -   **Networking & Communication** - Going to meetups or events - Contributing to open source projects - Networking within the company you work in
 </details>
 
-## Resources from Learn with Sumit
+## Resources from Learn with MadhavanAR
 
 > Some free and paid resources from Learn with Sumit that might help you achieve your goal to become a React Developer
 
